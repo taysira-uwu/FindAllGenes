@@ -41,7 +41,7 @@ ATGT
 
 ---
 
-##Project Structure
+## Project Structure
 
 • FindAllGenes.java: Main program file containing all methods for gene finding and testing.
 
